@@ -4,14 +4,17 @@ The above code are divived into two files, SHHA and SHHB for corresponding Shang
 
 
 
+Download Dataset 
+
+
+
 Train and Test
 
-1. Download Dataset ShanghaiTech 
-2. Pre-Process Data (resize image and split train/validation) (This step has been done in the sha-Train-Val-Test/shb-Train-Val-Test file, but you can try again by youself.)
+1. Pre-Process Data (resize image and split train/validation) (This step has been done in the sha-Train-Val-Test/shb-Train-Val-Test file, but you can try again by youself.)
 
-3. Train Model
+2. Train Model
 
-4. Test Model
+3. Test Model
 
 
 
