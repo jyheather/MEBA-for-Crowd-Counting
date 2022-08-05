@@ -4,7 +4,7 @@ The above code are divived into two files, SHHA and SHHB for corresponding Shang
 
 
 
-## Download Dataset 
+## Download Dataset [Link](https://www.kaggle.com/datasets/tthien/shanghaitech)
 
 
 
@@ -13,8 +13,14 @@ The above code are divived into two files, SHHA and SHHB for corresponding Shang
 1. Pre-Process Data (resize image and split train/validation) (This step has been done in the sha-Train-Val-Test/shb-Train-Val-Test file, but you can try again by youself.)
 
 2. Train Model
+```
+python preprocess_dataset.py --origin_dir <directory of original data> --data_dir <directory of processed data>
+```
 
 3. Test Model
+```
+python test.py --data_dir <directory of processed data> --save_dir <directory of log and model>
+```
 
 
 
