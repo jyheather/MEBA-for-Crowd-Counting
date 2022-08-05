@@ -29,6 +29,6 @@ python test.py --data_dir <directory of processed data> --save_dir <directory of
 
 ## Pretrained Models
 
-For ShanghaiTechA [Link](https://drive.google.com/drive/folders/1xolV-c8l1IUVDr6Wq8mel7K8bD6SJqbr?usp=sharing)
+ShanghaiTechA: [Link](https://drive.google.com/drive/folders/1xolV-c8l1IUVDr6Wq8mel7K8bD6SJqbr?usp=sharing)
 
-For ShanghaiTechB [Link](https://drive.google.com/drive/folders/1aT53Nco3d6Z7ejEbPSt2TdwAv-5dmJfo?usp=sharing)
+ShanghaiTechB: [Link](https://drive.google.com/drive/folders/1aT53Nco3d6Z7ejEbPSt2TdwAv-5dmJfo?usp=sharing)
