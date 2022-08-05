@@ -4,11 +4,11 @@ The above code are divived into two files, SHHA and SHHB for corresponding Shang
 
 
 
-Download Dataset 
+## Download Dataset 
 
 
 
-Train and Test
+## Train and Test
 
 1. Pre-Process Data (resize image and split train/validation) (This step has been done in the sha-Train-Val-Test/shb-Train-Val-Test file, but you can try again by youself.)
 
@@ -18,7 +18,7 @@ Train and Test
 
 
 
-Pretrain Weight
+## Pretrain Weight
 
 Models for ShanghaiTechA can be found at:
 https://drive.google.com/drive/folders/1xolV-c8l1IUVDr6Wq8mel7K8bD6SJqbr?usp=sharing
